@@ -1,0 +1,22 @@
+//
+//  PublicHeaders.pch
+//  ProductDemo
+//
+//  Created by yixiaoshan on 15/9/17.
+//  Copyright (c) 2015年 HYcompany. All rights reserved.
+//
+
+#ifndef ProductDemo_PublicHeaders_pch
+#define ProductDemo_PublicHeaders_pch
+#import <UIKit/UIKit.h>
+
+#import "GlobalVariable.h"
+
+//#import "UIViewExt.h"
+//#import "ImageScrollNet.h"
+//#import "SVProgressHUD.h"
+//#import "AFHTTPRequestOperation.h"
+//#import "AFHTTPRequestOperationManager.h"
+//#import "UIImageView+WebCache.h"
+
+#endif
